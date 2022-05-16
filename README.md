@@ -1,7 +1,7 @@
 # weather_web_18
 This project is used for any Weather Website.
 
-****************FEATURES**************
+FEATURES
 
 1. Search Weather in Your City
 2. See Temperature
@@ -11,4 +11,4 @@ This project is used for any Weather Website.
 6. See 5 Days Weather
 7. Clear Search History etc.
 
-***************************************
+<h1>wok</h1>
